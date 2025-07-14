@@ -6,7 +6,7 @@ The HR department at Salifort Motors wants to take some initiatives to improve e
 
 <ins> Dataset used </ins>
 
-(https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data)
+https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction/data
 
 It was build either a logistic regression or a tree-based machine learning model. The random forest model slightly outperforms the decision tree model.
 
