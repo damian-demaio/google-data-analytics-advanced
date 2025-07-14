@@ -2,8 +2,6 @@
 
 The HR department at Salifort Motors wants to take some initiatives to improve employee satisfaction levels at the company. The goals in this project were to analyze the data collected by the HR department and to build a model that predicts whether or not an employee will leave the company.
 
-The team could build either a logistic regression or a tree-based machine learning model. The random forest model slightly outperforms the decision tree model.
-
-the team could build either a logistic regression or a tree-based machine learning model.
+It was build either a logistic regression or a tree-based machine learning model. The random forest model slightly outperforms the decision tree model.
 
 The `last_evaluation`, `tenure`, `number_project` and `overworked` were the most helpful in predicting the outcome variable, `left`.
