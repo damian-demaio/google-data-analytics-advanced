@@ -6,4 +6,4 @@ The team could build either a logistic regression or a tree-based machine learni
 
 the team could build either a logistic regression or a tree-based machine learning model.
 
-The `last_evaluation`, `tenure`, `number_project` and `overworked` are most helpful in predicting the outcome variable, `left` were the most helpful in predicting the outcome variable, `left`.
+The `last_evaluation`, `tenure`, `number_project` and `overworked` were the most helpful in predicting the outcome variable, `left`.
